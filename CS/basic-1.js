@@ -185,7 +185,6 @@ Certain types of applications favor FP (like compilers), while others are more s
 ========================================================================================================
 
 
-
 What is HTTP stack?
 A StreamStack implementation of the HTTP protocol for Node.
 
