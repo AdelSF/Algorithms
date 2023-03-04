@@ -1,0 +1,4 @@
+// minimum amount of coins
+
+
+
